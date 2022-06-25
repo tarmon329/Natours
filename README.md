@@ -10,4 +10,4 @@ In the site I've implemented all the advance techniques from the course and more
 Run the file [`index.html`](index.html) in any desired browser.
 For SCSS development use the [`live sass compilation extention`](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 
-[Live Site](https://tarmon329.github.io/Natours/))
+[Live Site](https://tarmon329.github.io/Natours/)
